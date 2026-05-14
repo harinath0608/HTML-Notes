@@ -13,13 +13,13 @@
 } */
 
  div {
-    
+
     margin: 10px ;
     padding: 10px ;
     text-align: center;
     /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPJ8o6yTo12F2vRLZGgdhhcO1p_zZfqxkNxQ&s");
     background-size: cover; */
-    width: 200px ;
+    width: 300px ;
     height: 100px;
     border: 2px solid rgb(74, 16, 209);
     background-color: black;
@@ -27,4 +27,16 @@
 
 h1 {
     border: 2px solid rgb(74, 16, 209);
+}
+
+p {
+    color: aliceblue;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 100;
+
+}
+
+a {
+    text-decoration: overline;
 }
